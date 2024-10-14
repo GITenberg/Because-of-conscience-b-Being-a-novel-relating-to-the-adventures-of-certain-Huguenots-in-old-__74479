@@ -1,0 +1,44 @@
+_repo: Because-of-conscience-b-Being-a-novel-relating-to-the-adventures-of-certain-Huguenots-in-old-__74479
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Kennedy, E. Benson
+    gutenberg_agent_id: '34330'
+    url: http://www.gutenberg.org/2009/agents/34330
+creator:
+  author:
+    agent_name: Blanchard, Amy Ella
+    aliases:
+    - Blanchard, Amy E. (Amy Ella)
+    - Aunt Ella
+    - Ella, Aunt
+    birthdate: 1856
+    deathdate: 1926
+    gutenberg_agent_id: '8406'
+    url: http://www.gutenberg.org/2009/agents/8406
+    wikipedia: https://en.wikipedia.org/wiki/Amy_Ella_Blanchard
+description: ''
+gutenberg_issued: '2024-09-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74479'
+  lccn: 01025694
+language: en
+pgterms:marc904: https://archive.org/details/becauseofconscie00blaniala
+pgterms:marc905: 20221125162520blanchard
+pgterms:marc906: '1901'
+pgterms:marc907: us
+production_note: Carla Foust, David Edwards, David E. Brown, Rod Crawford, and the
+  Online Distributed Proofreading Team at https://www.pgdp.net (This file was produced
+  from images generously made available by The Internet Archive)
+publication_note: '  $aPhiladelphia :$bJ. B. Lippincott Company, $c1901.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Huguenots -- New York (State) -- Juvenile fiction'
+- !lcc 'PZ'
+- GITenberg
+title: 'Because of conscience : $b Being a novel relating to the adventures of certain
+  Huguenots in old New York'
+url: http://www.gutenberg.org/ebooks/74479
