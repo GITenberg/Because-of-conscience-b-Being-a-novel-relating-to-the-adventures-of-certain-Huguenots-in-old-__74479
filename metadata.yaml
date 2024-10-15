@@ -5,6 +5,9 @@ contributor:
     agent_name: Kennedy, E. Benson
     gutenberg_agent_id: '34330'
     url: http://www.gutenberg.org/2009/agents/34330
+covers:
+- cover_type: archival
+  image_path: 74479-h/images/coversmall.jpg
 creator:
   author:
     agent_name: Blanchard, Amy Ella
@@ -18,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8406
     wikipedia: https://en.wikipedia.org/wiki/Amy_Ella_Blanchard
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74479#Because-of-conscience-b-Being-a-novel-relating-to-the-adventures-of-certain-Huguenots-in-old-_
 gutenberg_issued: '2024-09-26'
 gutenberg_type: Text
 identifiers:
